@@ -1,11 +1,10 @@
-import { StatusBar } from "expo-status-bar";
-
+import { Header } from "@components/Header";
 import * as S from "./styles";
 
 export function Groups() {
 	return (
 		<S.Container>
-			<StatusBar style="auto" />
+			<Header />
 		</S.Container>
 	);
 }
