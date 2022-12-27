@@ -48,6 +48,6 @@ Extras:
 |![Screenshot_1672183700](https://user-images.githubusercontent.com/51330232/209736714-d4a2b91c-6473-441b-a235-58dbb3c8b9bd.png)|![Screenshot_1672183704](https://user-images.githubusercontent.com/51330232/209736717-30e03987-ad21-4d4d-9872-9f60b81b685f.png)|![Screenshot_1672183716](https://user-images.githubusercontent.com/51330232/209736719-eb5763b1-ed6d-4ee9-aca5-d2765f86adf5.png)|![Screenshot_1672183728](https://user-images.githubusercontent.com/51330232/209736720-2d52ac97-4e0d-44e5-ae35-b576a760c30a.png)|![Screenshot_1672183737](https://user-images.githubusercontent.com/51330232/209736722-de5c378d-3432-49c7-82e7-11a67fc9d7c9.png)|![Screenshot_1672183739](https://user-images.githubusercontent.com/51330232/209736724-0108e257-d2ce-4183-b294-c1e8b77f3c15.png)|
 
 ## 🧪 Rodar o app local
-- Para rodar o app local, basta entrar na pasta raiz do projeto mobile e executar o comando `yarn install` e logo depois rodar um`yarn start`.
+- Para rodar o app local, basta entrar na pasta raiz do projeto mobile e executar o comando `yarn install` e logo depois rodar um`expo start`.
 
 README feito com ❤️ by **MarquisAlexander**
