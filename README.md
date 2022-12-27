@@ -29,12 +29,13 @@ Extras:
   - [phosphor-react-native](https://phosphoricons.com/)
 
 ## 💻 Projeto
-- Esse app tem como objetivo facilitar a criação de equipes, ao criar um time você pode adicionar até dois times, com diversos jogadores em cada time, lembrando que a mesma pessoa não pode fazer parte de dois times ao mesmo tempo, caso deseja remover algum jogador, pode fazer isso ou pode apagar o time por completo.
+- Esse app tem como objetivo facilitar a criação de equipes, ao criar um time você pode adicionar até dois times, com diversos jogadores em cada time, lembrando que a mesma pessoa não pode fazer parte de dois times em simultâneo, caso deseje remover algum jogador, pode fazer isso ou pode apagar o time por completo.
 
 ## 🤔 Informações
 - Nesse projeto...
     - Foi utilizado AsyncStorage para salvar de forma persistente algumas informações cadastradas pelo usuário.
     - Foi utilizado React-Navigation para lidar com a navegação entre telas.
+    - Nesse projeto um dos objetivos é cobrir e tratar todos os erros, em todas as funções é utilizado trycatch e Alerts para lidar com erros e não deixar o usuário confuso ao se deparar com algum erro.
 
 ## 📲 Download do app
 - **obs** Não foi possível disponibilizar o app nas lojas(google play/app store) por alguns motivos, minha conta para acessar o google play console está desativada, e não tenho fácil acesso ao mac para gerar um build do app para o ios. 
